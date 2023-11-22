@@ -1,8 +1,8 @@
 package com.vibgyor.learnspringframework.game;
 
 public class GameRunner {
-    MarioGame game;
-    public GameRunner(MarioGame game) {
+    private SuperContraGame game;
+    public GameRunner(SuperContraGame game) {
         this.game = game;
     }
 
