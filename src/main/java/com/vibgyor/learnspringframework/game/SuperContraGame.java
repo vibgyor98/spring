@@ -1,5 +1,8 @@
 package com.vibgyor.learnspringframework.game;
 
+import org.springframework.stereotype.Component;
+
+
 public class SuperContraGame implements GamingConsole{
     public void up() {
         System.out.println("up");
