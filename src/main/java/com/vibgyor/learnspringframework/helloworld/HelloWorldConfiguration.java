@@ -1,4 +1,4 @@
-package com.vibgyor.learnspringframework;
+package com.vibgyor.learnspringframework.helloworld;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
